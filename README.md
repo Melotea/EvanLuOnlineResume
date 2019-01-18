@@ -5,6 +5,7 @@
 <h3> Description: </h3>
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses 
+  
   <ul>
   The 12 GitHub labs include an overview of fundamental GitHub skills including:
   <li>Introduction to Github</li>
@@ -20,12 +21,13 @@ https://lab.github.com/courses
   <li>Securing your workflows</li>
   <li>Create a release based workflow</li>
   </ul>
+  
 <h4> Course Completion: </h4>
-  <img src="GitHubcourses1.jpg" alt="GitHubcourses1">
+  <img src="GitHubcourses1.png" alt="GitHubcourses1">
   
-  <img src="GitHubcourses2.jpg" alt="GitHubcourses2">
+  <img src="GitHubcourses2.png" alt="GitHubcourses2">
   
-  <img src="GitHubcourses3.jpg" alt="GitHubcourses3">
+  <img src="GitHubcourses3.png" alt="GitHubcourses3">
  </details>
 
 

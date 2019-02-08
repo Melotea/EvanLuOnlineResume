@@ -35,6 +35,26 @@ https://lab.github.com/courses
   <details><summary>Linux Essentials </summary>
 <h5> Description: </h5>
   I completed the LPI Linux Essentals offed on at https://linuxacademy.com
+  <ul>
+    The LPI Linux Essentials include an overview of skills including:
+    <li>How to Acesss an Linux Installation</li>
+    <li>Major Open Source Applcations </li>
+    <li>Understanding Open Source Software and Licensing</li>
+    <li>ICT Skills and Working in Linux</li>
+    <li>Command Line Basics</li>
+    <li>Using the Command Line to Get Help</li>
+    <li>Using Directories and Listing Files</li>
+    <li>Creating, Moving and Deleting Files</li>
+    <li>Archiving Files on the Command Line</li>
+    <li>Searching Files on the Command Line</li>
+    <li>Turning Commands into a Script</li>
+    <li>Choosing an Operating System</li>
+    <li>Where Data is Stored</li>
+    <li>Basic Security and Identifying User Types</li>
+    <li>Creating Users and Groups</li>
+    <li>Managing File Permissions and Ownership</li>
+    <li>Special Directories and Files</li>
+    
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
   </details>

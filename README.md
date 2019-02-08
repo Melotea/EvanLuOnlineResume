@@ -30,6 +30,14 @@ https://lab.github.com/courses
   
   <img src="GitHubcourses3.png" alt="GitHubcourses3">
  </details>
+ 
+ 
+  <details><summary>Linux Essentials </summary>
+<h5> Description: </h5>
+  I completed the LPI Linux Essentals offed on at https://linuxacademy.com
+  <h6> Course Completion: </h6>
+  <img src="LinuxEssentials.png" alt="LinuxEssentials">
+  </details>
 
 
   

@@ -34,7 +34,7 @@ https://lab.github.com/courses
  
   <details><summary>Linux Essentials </summary>
 <h5> Description: </h5>
-  I completed the LPI Linux Essentals offed on at https://linuxacademy.com
+  I completed the LPI Linux Essentals offed at https://linuxacademy.com
   <ul>
     The LPI Linux Essentials include an overview of skills including:
     <li>How to Acesss an Linux Installation</li>
@@ -58,6 +58,38 @@ https://lab.github.com/courses
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
   </details>
+  
+  <details><summary>Analyzing and Visualizing Data with Power BI</summary>
+  <h7> Description: </h7>
+    I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
+  <ul>
+    Analyzing and Visualizing Data with Power BI include an overview of skills including:
+    <li>Data Transformations</li>
+    <li>Desktop Modelling</li>
+    <li>Desktop Visualization</li>
+    <li>Power BI Service</li>
+    <li>Working with Excel</li>
+    <li>Direct Connectivity</li>
+    <li>Developer API</li>
+    <li>Moblie App</li>
+  
+  <h8> Course Completion: </h8>
+  <img src ="PowerBI 1.png" alt="PowerBI1">
+  <img src ="PowerBI 2.png" alt="PowerBI2">  
+  <img src ="PowerBI 3.png" alt="PowerBI3"> 
+  <img src ="PowerBI 4.png" alt="PowerBI4">
+  <img src ="PowerBI 5.png" alt="PowerBI5">
+  <img src ="PowerBI 6.png" alt="PowerBI6">
+  <img src ="PowerBI 7.png" alt="PowerBI7">
+  <img src ="PowerBI 8.png" alt="PowerBI8">
+  <img src ="PowerBI 9.png" alt="PowerBI9">
+  <img src ="PowerBI 10.png" alt="PowerBI10">
+  </detail>
+    
+    
+    
+    
+    
 
 
   

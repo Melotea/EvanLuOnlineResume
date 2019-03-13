@@ -55,6 +55,7 @@ https://lab.github.com/courses
     <li>Creating Users and Groups</li>
     <li>Managing File Permissions and Ownership</li>
     <li>Special Directories and Files</li>
+    </ul>
     
   <h4> Course Completion: </h4>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
@@ -76,6 +77,7 @@ https://lab.github.com/courses
     <li>Direct Connectivity</li>
     <li>Developer API</li>
     <li>Moblie App</li>
+  </ul>
   
   <h4> Course Completion: </h4>
   <img src ="PowerBI 1.png" alt="PowerBI1">

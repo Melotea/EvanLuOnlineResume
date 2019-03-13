@@ -29,22 +29,36 @@ https://lab.github.com/courses
   <img src="GitHubcourses2.png" alt="GitHubcourses2">
   
   <img src="GitHubcourses3.png" alt="GitHubcourses3">
-  </detail>
-
+ </details>
  
-
+ 
   <details><summary>Linux Essentials </summary>
 <h5> Description: </h5>
-  I completed the LPI Linux Essentals offed on at https://linuxacademy.com
   I completed the LPI Linux Essentals offed at https://linuxacademy.com
   <ul>
     The LPI Linux Essentials include an overview of skills including:
     <li>How to Acesss an Linux Installation</li>
-@@ -58,6 +58,38 @@ https://lab.github.com/courses
+    <li>Major Open Source Applcations </li>
+    <li>Understanding Open Source Software and Licensing</li>
+    <li>ICT Skills and Working in Linux</li>
+    <li>Command Line Basics</li>
+    <li>Using the Command Line to Get Help</li>
+    <li>Using Directories and Listing Files</li>
+    <li>Creating, Moving and Deleting Files</li>
+    <li>Archiving Files on the Command Line</li>
+    <li>Searching Files on the Command Line</li>
+    <li>Turning Commands into a Script</li>
+    <li>Choosing an Operating System</li>
+    <li>Where Data is Stored</li>
+    <li>Basic Security and Identifying User Types</li>
+    <li>Creating Users and Groups</li>
+    <li>Managing File Permissions and Ownership</li>
+    <li>Special Directories and Files</li>
+    
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
   </details>
-
+  
   <details><summary>Analyzing and Visualizing Data with Power BI</summary>
   <h7> Description: </h7>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
@@ -58,7 +72,7 @@ https://lab.github.com/courses
     <li>Direct Connectivity</li>
     <li>Developer API</li>
     <li>Moblie App</li>
-
+  
   <h8> Course Completion: </h8>
   <img src ="PowerBI 1.png" alt="PowerBI1">
   <img src ="PowerBI 2.png" alt="PowerBI2">  
@@ -71,12 +85,12 @@ https://lab.github.com/courses
   <img src ="PowerBI 9.png" alt="PowerBI9">
   <img src ="PowerBI 10.png" alt="PowerBI10">
   </detail>
-
-
     
     
     
     
+    
 
 
+  
   

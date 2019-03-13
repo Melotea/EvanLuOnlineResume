@@ -32,7 +32,7 @@ https://lab.github.com/courses
 
  
  
-  <details><summary>Linux Essentials </summary>
+  <summary>Linux Essentials </summary>
 <h5> Description: </h5>
   I completed the LPI Linux Essentals offed at https://linuxacademy.com
   <ul>
@@ -59,7 +59,7 @@ https://lab.github.com/courses
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
  
   
-<details><summary>Analyzing and Visualizing Data with Power BI</summary>
+<summary>Analyzing and Visualizing Data with Power BI</summary>
 <h1> Description: </h1>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
   <ul>
@@ -85,8 +85,7 @@ https://lab.github.com/courses
   <img src ="PowerBI 9.png" alt="PowerBI 9">
   <img src ="PowerBI 10.png" alt="PowerBI 10">
  </detail>
- </detail>
- </detail>
+
     
     
     

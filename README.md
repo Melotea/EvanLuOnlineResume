@@ -84,7 +84,7 @@ https://lab.github.com/courses
   <img src ="PowerBI 8.png" alt="PowerBI8">
   <img src ="PowerBI 9.png" alt="PowerBI9">
   <img src ="PowerBI 10.png" alt="PowerBI10">
-  </detail>
+  </details>
     
     
     

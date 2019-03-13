@@ -29,7 +29,7 @@ https://lab.github.com/courses
   <img src="GitHubcourses2.png" alt="GitHubcourses2">
   
   <img src="GitHubcourses3.png" alt="GitHubcourses3">
- </details>
+
  
  
   <details><summary>Linux Essentials </summary>
@@ -57,7 +57,7 @@ https://lab.github.com/courses
     
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
- </details>
+ 
   
 <details><summary>Analyzing and Visualizing Data with Power BI</summary>
 <h1> Description: </h1>
@@ -84,6 +84,8 @@ https://lab.github.com/courses
   <img src ="PowerBI 8.png" alt="PowerBI 8">
   <img src ="PowerBI 9.png" alt="PowerBI 9">
   <img src ="PowerBI 10.png" alt="PowerBI 10">
+ </detail>
+ </detail>
  </detail>
     
     

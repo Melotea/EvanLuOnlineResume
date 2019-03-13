@@ -57,10 +57,10 @@ https://lab.github.com/courses
     
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
-  </details>
+ </details>
   
 <details><summary>Analyzing and Visualizing Data with Power BI</summary>
-<h7> Description: </h7>
+<h1> Description: </h1>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
   <ul>
     Analyzing and Visualizing Data with Power BI include an overview of skills including:
@@ -73,7 +73,7 @@ https://lab.github.com/courses
     <li>Developer API</li>
     <li>Moblie App</li>
   
-  <h8> Course Completion: </h8>
+  <h1> Course Completion: </h1>
   <img src ="PowerBI 1.png" alt="PowerBI 1">
   <img src ="PowerBI 2.png" alt="PowerBI 2">  
   <img src ="PowerBI 3.png" alt="PowerBI 3"> 
@@ -84,7 +84,7 @@ https://lab.github.com/courses
   <img src ="PowerBI 8.png" alt="PowerBI 8">
   <img src ="PowerBI 9.png" alt="PowerBI 9">
   <img src ="PowerBI 10.png" alt="PowerBI 10">
-  </detail>
+ </detail>
     
     
     

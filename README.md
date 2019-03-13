@@ -3,7 +3,7 @@
 
 <h2> Technical Skills </h2>
   <details><summary>GITHUB</summary>
-<h3> Description: </h3>
+<h4> Description: </h4>
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses 
   
@@ -30,10 +30,11 @@ https://lab.github.com/courses
   
   <img src="GitHubcourses3.png" alt="GitHubcourses3">
  </details>
- 
+ <br>
+ <br>
  
   <details><summary>Linux Essentials </summary>
-<h5> Description: </h5>
+<h4> Description: </h4>
   I completed the LPI Linux Essentals offed at https://linuxacademy.com
   <ul>
     The LPI Linux Essentials include an overview of skills including:
@@ -55,13 +56,15 @@ https://lab.github.com/courses
     <li>Managing File Permissions and Ownership</li>
     <li>Special Directories and Files</li>
     
-  <h6> Course Completion: </h6>
+  <h4> Course Completion: </h4>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
   
   </details>
+  <br>
+  <br>
   
   <details><summary>Analyzing and Visualizing Data with Power BI</summary>
-  <h7> Description: </h7>
+  <h4> Description: </h4>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
   <ul>
     Analyzing and Visualizing Data with Power BI include an overview of skills including:
@@ -74,7 +77,7 @@ https://lab.github.com/courses
     <li>Developer API</li>
     <li>Moblie App</li>
   
-  <h8> Course Completion: </h8>
+  <h4> Course Completion: </h4>
   <img src ="PowerBI 1.png" alt="PowerBI1">
   
   <img src ="PowerBI 2.png" alt="PowerBI2">  

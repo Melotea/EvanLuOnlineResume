@@ -29,10 +29,11 @@ https://lab.github.com/courses
   <img src="GitHubcourses2.png" alt="GitHubcourses2">
   
   <img src="GitHubcourses3.png" alt="GitHubcourses3">
+  </detail>
 
  
  
-  <summary>Linux Essentials </summary>
+  <detail><summary>Linux Essentials </summary>
 <h5> Description: </h5>
   I completed the LPI Linux Essentals offed at https://linuxacademy.com
   <ul>
@@ -57,9 +58,10 @@ https://lab.github.com/courses
     
   <h6> Course Completion: </h6>
   <img src="LinuxEssentials.png" alt="LinuxEssentials">
+  </detail>
  
   
-<summary>Analyzing and Visualizing Data with Power BI</summary>
+<detail><summary>Analyzing and Visualizing Data with Power BI</summary>
 <h1> Description: </h1>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
   <ul>

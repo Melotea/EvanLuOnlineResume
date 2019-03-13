@@ -60,7 +60,7 @@ https://lab.github.com/courses
   </details>
   
   <details><summary>Analyzing and Visualizing Data with Power BI</summary>
-  <h7> Description: </h7>
+<h7> Description: </h7>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/
   <ul>
     Analyzing and Visualizing Data with Power BI include an overview of skills including:

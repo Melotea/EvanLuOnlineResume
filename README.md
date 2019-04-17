@@ -100,6 +100,29 @@ https://lab.github.com/courses
   
   <img src ="PowerBI 10.png" alt="PowerBI10">
   </details>
+  <br>
+   
+   <details><summary>AWS Essentials </summary>
+<h3> Description: </h3>
+  I completed the AWS Essentials offed at https://linuxacademy.com
+  <ul>
+    The AWS Essentials include an overview of skills including:
+    <li>Account Basics </li>
+    <li>Idntity and Access Management(IAM) </li>
+    <li>Networking Services and Connectivity</li>
+    <li>Compute Services</li>
+    <li>Elastic Cloud Compute (EC2)</li>
+    <li>Storage Services </li>
+    <li>Database Services</li>
+    <li>Load Balancing, Elasticity and Scalability</li>
+    <li>Serverless Compute</li>
+    </ul>
+    
+  <h4> Course Completion: </h4>
+  <img src="AWS Cert.png" alt="AWSCert">
+  
+  </details>
+  <br>
     
     
     

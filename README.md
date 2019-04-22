@@ -130,7 +130,9 @@ https://lab.github.com/courses
     
   <h4> Dashboard Pictures: </h4>
   <img src="powerbi board2.png" alt="powerbi board2">
+  
   <img src="powerbi board1.png" alt="powerbi board1">
+  
   </details>
   <br>
     

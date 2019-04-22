@@ -126,7 +126,7 @@ https://lab.github.com/courses
   
    <details><summary>PowerBi Dashboard</summary>
  <h3> Youtube video: </h3>
-  The video to my dashboard can be found at https://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be
+  [ttps://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be](https://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be)
     
   <h4> Dashboard Pictures: </h4>
   <img src="powerbi board2.png" alt="powerbi board2">

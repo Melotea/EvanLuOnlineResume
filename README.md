@@ -128,8 +128,8 @@ https://lab.github.com/courses
   The video to my dashboard can be found at https://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be
     
   <h4> Dashboard Pictures: </h4>
-  <img src="powerbi board2" alt="powerbi board2">
-  <img src="powerbi board1" alt="powerbi board1">
+  <img src="powerbi board2.png" alt="powerbi board2">
+  <img src="powerbi board1.png" alt="powerbi board1">
   </details>
   <br>
     

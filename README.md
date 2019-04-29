@@ -150,7 +150,20 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
   <br>
     
     
-    
+    <br>
+ 
+  
+  <details><summary>Failed VPN</summary>
+  <h3> Description: </h3>
+    Attempted to create my own VPN using the instruction at https://github.com/trailofbits/algo. However failed during step 5 of the 6 step process of setting up. Below is an picture of the problem during step 5.  
+  <br>
+  <br>
+  
+  
+  <h4> VPN termial Picture: </h4>
+  <img src ="VPN.png" alt="VPN">
+  </detail>
+  <br>
     
     
 

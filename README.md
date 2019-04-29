@@ -135,6 +135,9 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
   
    <details><summary>PowerBi Dashboard</summary>
  <h3> Youtube video: </h3>
+  From the skills that I have optained from "Analyzing and Visualizing Data with Power BI". I create a dashboard from a dataset provided by microsoft to showcase my interpretation of it. 
+  <br>
+  <br>
  
   <a href="https://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be">https://www.youtube.com/watch?v=kfMNq6R3-cE&feature=youtu.be</a>
     

@@ -37,7 +37,7 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
  
   <details><summary>Linux Essentials </summary>
 <h3> Description: </h3>
-  I completed the LPI Linux Essentals offed at https://linuxacademy.com. Theses courses taught me taught me the basics of command lines, the linix kernal and the operating system as a whole. 
+  I completed the LPI Linux Essentals offed at https://linuxacademy.com. Theses courses taught me the basics of command lines, the linix kernal and the operating system as a whole. 
   <br>
   <br>
   

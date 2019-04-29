@@ -7,6 +7,7 @@
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses. These courses taught me how to create a repository, create and pull request, upload documents, etc. 
   <br>
+  <br>
   
   <ul>
   The 12 GitHub labs include an overview of fundamental GitHub skills including:
@@ -37,6 +38,7 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
   <details><summary>Linux Essentials </summary>
 <h3> Description: </h3>
   I completed the LPI Linux Essentals offed at https://linuxacademy.com. Theses courses taught me taught me the basics of command lines, the linix kernal and the operating system as a whole. 
+  <br>
   <br>
   
   <ul>
@@ -70,7 +72,7 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
   <details><summary>Analyzing and Visualizing Data with Power BI</summary>
   <h3> Description: </h3>
     I completed the Analyzing and Visualizing Data with Power BI offed at https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2019/course/. These courses taught me how to add and change elements on the dashboard. 
-  
+  <br>
   <br>
   <ul>
     Analyzing and Visualizing Data with Power BI include an overview of skills including:
@@ -111,7 +113,7 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
 <h3> Description: </h3>
   I completed the AWS Essentials offed at https://linuxacademy.com. Theses courses provided me skills in AWS such as Elatic cloud compute, storage and database services, ect. 
   <br>
-  
+  <br>
   <ul>
     The AWS Essentials include an overview of skills including:
     <li>Account Basics </li>

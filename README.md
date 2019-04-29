@@ -148,9 +148,6 @@ https://lab.github.com/courses. These courses taught me how to create a reposito
   
   </details>
   <br>
-    
-    
-    <br>
  
   
   <details><summary>Failed VPN</summary>
